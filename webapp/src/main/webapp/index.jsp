@@ -23,7 +23,7 @@
       <section id="members">
         <h1>Members</h1>
         <ul>
-          <li><strong>Rap Monster (RM)</strong> - Leader, Rapper</li>
+          <li><strong>KIM NAM JOON (RM)</strong> - Leader, Rapper</li>
           <li><strong>Jin</strong> - Vocalist</li>
           <li><strong>Suga</strong> - Rapper</li>
           <li><strong>J-Hope</strong> - Rapper, Dancer</li>
