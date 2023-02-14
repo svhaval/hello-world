@@ -1,37 +1,60 @@
-<form action="action_page.php">
-  <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
-    <hr>
-     
-    <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
-    <br>
-    
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
-    <br>
-
-    <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-    <br>
-
-    <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
-    <br>
-
-    <label for="psw-repeat"><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <hr>
-    <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
-  </div>
-  <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
-  </div>
-
-   <h1> Thankyou, Happy Learning </h1>
-
-  
-</form>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BTS Official Website</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#about">About BTS</a></li>
+          <li><a href="#members">Members</a></li>
+          <li><a href="#discography">Discography</a></li>
+          <li><a href="#tour">Tour</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="about">
+        <h1>About BTS</h1>
+        <p>BTS is a South Korean boy band formed in Seoul in 2013. The band is composed of seven members: RM, Jin, Suga, J-Hope, Jimin, V, and Jungkook. BTS has become one of the most successful and influential groups in the world, with millions of fans around the globe.</p>
+      </section>
+      <section id="members">
+        <h1>Members</h1>
+        <ul>
+          <li><strong>Rap Monster (RM)</strong> - Leader, Rapper</li>
+          <li><strong>Jin</strong> - Vocalist</li>
+          <li><strong>Suga</strong> - Rapper</li>
+          <li><strong>J-Hope</strong> - Rapper, Dancer</li>
+          <li><strong>Jimin</strong> - Vocalist, Dancer</li>
+          <li><strong>V</strong> - Vocalist</li>
+          <li><strong>Jungkook</strong> - Vocalist, Dancer, Maknae</li>
+        </ul>
+      </section>
+      <section id="discography">
+        <h1>Discography</h1>
+        <ul>
+          <li>Dark &amp; Wild (2014)</li>
+          <li>The Most Beautiful Moment in Life, Part 1 (2015)</li>
+          <li>The Most Beautiful Moment in Life, Part 2 (2015)</li>
+          <li>Youth (2016)</li>
+          <li>Wings (2016)</li>
+          <li>Love Yourself 承 'Her' (2017)</li>
+          <li>Love Yourself 轉 'Tear' (2018)</li>
+          <li>Love Yourself 結 'Answer' (2018)</li>
+          <li>Map of the Soul: Persona (2019)</li>
+          <li>Map of the Soul: 7 (2020)</li>
+          <li>BE (2020)</li>
+        </ul>
+      </section>
+      <section id="tour">
+        <h1>Tour</h1>
+        <p>BTS has gone on multiple tours around the world, including the Love Yourself World Tour and the Map of the Soul World Tour. Check the official website for upcoming tour dates and ticket information.</p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; BTS Official Website 2023</p>
+    </footer>
+  </body>
+</html>
