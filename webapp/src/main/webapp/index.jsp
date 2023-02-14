@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>BTS Official Website</title>
+    <title>INTRODUCTION TO BTS</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
@@ -35,14 +35,14 @@
       <section id="discography">
         <h1>Discography</h1>
         <ul>
-          <li>Dark &amp; Wild (2014)</li>
+          <li>Dark & Wild (2014)</li>
           <li>The Most Beautiful Moment in Life, Part 1 (2015)</li>
           <li>The Most Beautiful Moment in Life, Part 2 (2015)</li>
           <li>Youth (2016)</li>
           <li>Wings (2016)</li>
-          <li>Love Yourself 承 'Her' (2017)</li>
-          <li>Love Yourself 轉 'Tear' (2018)</li>
-          <li>Love Yourself 結 'Answer' (2018)</li>
+          <li>Love Yourself 'Her' (2017)</li>
+          <li>Love Yourself 'Tear' (2018)</li>
+          <li>Love Yourself 'Answer' (2018)</li>
           <li>Map of the Soul: Persona (2019)</li>
           <li>Map of the Soul: 7 (2020)</li>
           <li>BE (2020)</li>
