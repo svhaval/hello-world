@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-	  <h1> A.R.M.Y </h1>
+	  <h1> A.R.M.Y SARANGHE </h1>
     <title>INTRODUCTION TO BTS</title>
     <link rel="stylesheet" href="style.css">
   </head>
